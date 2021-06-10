@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".TaskFragment">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="203dp"
+        android:background="#7E417A"
+        android:gravity="center"
+        android:text="Recite Surah Ikhlaas(3 Times)"
+        android:textColor="#07FFF7"
+        android:textSize="34sp" />
+
+</FrameLayout>
